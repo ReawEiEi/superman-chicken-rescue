@@ -1,2 +1,16 @@
 # superman-chicken-rescue
-Band Protocol Test 2
+
+Band Protocol (Superman's Chicken Rescue)
+
+Run Command:
+`./output`
+For run the program.
+
+Full Code:
+`superman-chicken-rescue.cpp`
+
+Time Complexity:
+`O(n)`
+
+Memory Complexity:
+`O(n)`
